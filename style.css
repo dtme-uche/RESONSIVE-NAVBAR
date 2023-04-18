@@ -88,6 +88,10 @@ img {
     color: var(--color-brand);
 }
 
+.navbar .nav-link.active {
+    color: var(--color-brand)
+}
+
 
 @media (min-width: 992px) {
     .navbar {
